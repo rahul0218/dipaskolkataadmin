@@ -1,3 +1,5 @@
+<h2><?php= $title ?><h2>
+
 
 <!-- page title -->
 <section class="page-title-section overlay" data-background="assets/images/backgrounds/page-title.jpg">
