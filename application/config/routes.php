@@ -55,7 +55,7 @@ $route['admin/index'] = 'admin/view/index';
 $route['admin/about'] = 'admin/view/about';
 $route['admin'] = 'admin/view';
 
-
+$route['admin/admission_qry'] = 'admin/view/index';
 $route['admission_contact'] = 'admission_contact/index';
 $route['default_controller'] = 'pages/view';
 //$route['pages/home'] = 'pages/view/home';

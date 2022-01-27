@@ -5,6 +5,7 @@
             
 
             $data['title'] = 'Admission Query';
+            
 
             $this->load->view('templates/header');
             $this->load->view('admission_contact/index', $data);
