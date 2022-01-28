@@ -8,8 +8,8 @@
 
 
     <div class="sidebar">
-  <a href="<?php echo base_url();?>admin/index">Home</a>
-  
+  <a href="<?php echo base_url();?>admin/home">Dashboard</a>
+  <a href="<?php echo base_url();?>admission_qry">Admission Query List</a>
   <a href="<?php echo base_url();?>admin/about">About</a>
 </div>
 <style>
@@ -22,7 +22,7 @@ body {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f1f1f1;
+  background-color: #FFBC3B;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -68,7 +68,7 @@ div.content {
   }
 }
 </style>
-    <title>Document</title>
+<h2><? = $title ; ?> </h2>
 </head>
 <body>
 

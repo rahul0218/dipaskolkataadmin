@@ -12,4 +12,5 @@
             $query = $this->db->get_where('adqry',array('slug'=>$slug));
             return $query->row_array();
         }
+        
     }
