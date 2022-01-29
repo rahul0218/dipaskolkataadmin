@@ -53,11 +53,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $route['admin/home'] = 'admin/view/home';
 $route['admin/about'] = 'admin/view/about';
-$route['admin'] = 'admin/view/index';
+$route['admin'] = 'admin/view';
 
-$route['pages/create'] = 'admission_qry/admission-contact';
+//$route['pages/index'] = 'admission_qry/admission-contact';
 //$route['admin/admission_qry'] = 'admin/view/home';
-$route['admission_qry'] = 'admission_qry/index';
+//$route['admission_qry'] = 'admission_qry/index';
 $route['default_controller'] = 'pages/view';
 //$route['pages/home'] = 'pages/view/home';
 $route['(:any)'] = 'pages/view/$1';

@@ -1,5 +1,5 @@
 <?php
-    class Admissionqry_model extends CI_Model{
+    class Pages_model extends CI_Model{
         public function __construct(){
             $this->load->database();
         }

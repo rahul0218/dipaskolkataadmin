@@ -8,8 +8,8 @@
 
 
     <div class="sidebar">
-  <a href="<?php echo base_url();?>admin/home">Dashboard</a>
-  <a href="<?php echo base_url();?>admission_qry">Admission Query List</a>
+  <a href="<?php echo base_url();?>admin">Dashboard</a>
+  <a href="<?php echo base_url();?>admin/home">Admission Query List</a>
   <a href="<?php echo base_url();?>admin/about">About</a>
 </div>
 <style>

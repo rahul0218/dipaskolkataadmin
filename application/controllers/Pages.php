@@ -15,6 +15,10 @@
         public function admission_contact(){
             $data['title'] = 'Create Admission Query';
 
+            $this->form_validation->set_rules('name','Name','required');
+            $this->form_validation->set_rules('phone','Phone','required');
+            $this->form_validation->set_rules('course','Course','required');
+
             $this->load->view('templates/header');
             $this->load->view('pages/admission_contact', $data);
             $this->load->view('templates/footer');
