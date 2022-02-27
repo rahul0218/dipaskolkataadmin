@@ -6,6 +6,7 @@
 
         public function get_adqry($slug=FALSE){
             if($slug === FALSE){
+                $this->db->order_by('adq_id','DESC');
                 $query = $this->db->get('adqry');
                 return $query->result_array();
             }

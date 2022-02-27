@@ -8,7 +8,7 @@
             //echo 'this is test print';
 
             $this->load->view('templates/header');
-            $this->load->view('admission_qry/index', $data);
+            $this->load->view('admission_qry/create', $data);
             $this->load->view('templates/footer');
         }
 
@@ -27,7 +27,7 @@
             }else{
                 echo 'this is working';
                 $this->admissionqry_model->create_adqry();
-                redirect('pages');
+                redirect('admission_qry');
             }
         }
     }

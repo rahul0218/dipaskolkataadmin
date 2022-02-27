@@ -57,6 +57,7 @@ $route['admin'] = 'admin/view';
 
 //$route['pages/index'] = 'admission_qry/admission-contact';
 //$route['admin/admission_qry'] = 'admin/view/home';
+$route['admission_qry/home'] = 'pages/view';
 $route['admission_qry/create'] = 'admission_qry/create';
 $route['admission_qry'] = 'admission_qry/index';
 $route['default_controller'] = 'pages/view';

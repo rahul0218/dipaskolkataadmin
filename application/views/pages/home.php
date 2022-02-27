@@ -100,7 +100,7 @@
             <i class="ti-write mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Admission Now</h3>
             <p>Admission is open for sessions 2021-2022.</p>
-            <a href="<?php base_url();?>admission_qry/create" class="btn btn-primary btn-sm">Know more</a>
+            <a href="<?php base_url();?>admission_qry" class="btn btn-primary btn-sm">Know more</a>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-book mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>

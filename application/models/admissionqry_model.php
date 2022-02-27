@@ -7,10 +7,10 @@
         public function get_adqry($slug=FALSE){
             if($slug === FALSE){
                 $query = $this->db->get('adqry');
-                return $query->result_array();
+               // return $query->result_array();
             }
             $query = $this->db->get_where('adqry',array('slug'=>$slug));
-            return $query->row_array();
+            //return $query->row_array();
         }
         
         public function create_adqry(){

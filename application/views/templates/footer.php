@@ -82,8 +82,8 @@
             <script>
               var CurrentYear = new Date().getFullYear()
               document.write(CurrentYear)
-            </script> 
-            © Technophiletroops</p>
+            </script> <a href="https://www.technophiletroop.com">
+            © Technophiletroop</a></p>
         </div>
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">
