@@ -23,9 +23,9 @@
       <td><?php echo $adqr['adq_crs']; ?></td>
       <td><?php echo $adqr['adq_msg']; ?></td>
       <td><?php echo $adqr['adq_updt_at']; ?></td>
-      <?php endforeach ; ?>
+      
     </tr>
-    
+    <?php endforeach ; ?>
   </tbody>
 </table>
 </div>

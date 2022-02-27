@@ -22,7 +22,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
-          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="assets/images/logo.png" alt="logo"></a>
+          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="<?php echo base_url('assets/images/logo.png');?>" alt="logo"></a>
           <ul class="list-unstyled">
             <li class="mb-2">19, Mollargate Hospital Rd, Santoshpur Govt Colony, Rampur, Santoshpur, Kolkata, West Bengal 700142</li>
             <li class="mb-2">+91 (2) 345 6789</li>
@@ -100,23 +100,23 @@
 <!-- /footer -->
 
 <!-- jQuery -->
-<script src="assets/plugins/jQuery/jquery.min.js"></script>
+<script src="<?php echo base_url('assets/plugins/jQuery/jquery.min.js');?>"></script>
 <!-- Bootstrap JS -->
-<script src="assets/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="<?php echo base_url('assets/plugins/bootstrap/bootstrap.min.js');?>"></script>
 <!-- slick slider -->
-<script src="assets/plugins/slick/slick.min.js"></script>
+<script src="<?php echo base_url('assets/plugins/slick/slick.min.js');?>"></script>
 <!-- aos -->
-<script src="assets/plugins/aos/aos.js"></script>
+<script src="<?php echo base_url('assets/plugins/aos/aos.js');?>"></script>
 <!-- venobox popup -->
-<script src="assets/plugins/venobox/venobox.min.js"></script>
+<script src="<?php echo base_url('assets/plugins/venobox/venobox.min.js');?>"></script>
 <!-- filter -->
-<script src="assets/plugins/filterizr/jquery.filterizr.min.js"></script>
+<script src="<?php echo base_url('assets/plugins/filterizr/jquery.filterizr.min.js');?>"></script>
 <!-- google map -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
-<script src="assets/plugins/google-map/gmap.js"></script>
+<script src="<?php echo base_url('assets/plugins/google-map/gmap.js');?>"></script>
 
 <!-- Main Script -->
-<script src="assets/js/script.js"></script>
+<script src="<?php echo base_url('assets/js/script.js');?>"></script>
 
 </body>
 </html>

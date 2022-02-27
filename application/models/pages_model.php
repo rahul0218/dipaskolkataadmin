@@ -13,18 +13,6 @@
             return $query->row_array();
         }
 
-        public function create_adqry(){
-            //$slug = url_title($this->input->adqry('name'));
-
-            $data = array(
-                'name' => $this->input->adqry('name'),
-                //'slug' => $slug,
-                'phone' => $this->input->adqry('phone'),
-                'course' => $this->input->adqry('course'),
-                'message' => $this->input->adqry('message')
-            );
-
-            return $this->db->insert('adqry', $data);
-        }
+        
         
     }

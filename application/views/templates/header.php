@@ -11,31 +11,31 @@
 
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
-  <link rel="stylesheet" href="assets/plugins/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/bootstrap/bootstrap.min.css');?>">
   <!-- slick slider -->
-  <link rel="stylesheet" href="assets/plugins/slick/slick.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/slick/slick.css');?>">
   <!-- themefy-icon -->
-  <link rel="stylesheet" href="assets/plugins/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/themify-icons/themify-icons.css');?>">
   <!-- animation css -->
-  <link rel="stylesheet" href="assets/plugins/animate/animate.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/animate/animate.css');?>">
   <!-- aos -->
-  <link rel="stylesheet" href="assets/plugins/aos/aos.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/aos/aos.css');?>">
   <!-- venobox popup -->
-  <link rel="stylesheet" href="assets/plugins/venobox/venobox.css">
+  <link rel="stylesheet" href="<?php echo base_url('assets/plugins/venobox/venobox.css');?>">
 
   <!-- Main Stylesheet -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo base_url('assets/css/style.css');?>" rel="stylesheet">
 
   <!--Favicon-->
-  <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-  <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="<?php echo base_url('assets/images/favicon.png');?>" type="image/x-icon">
+  <link rel="icon" href="<?php echo base_url('assets/images/favicon.png');?>" type="image/x-icon">
 
 </head>
 
 <body>
   <!-- preloader start -->
   <div class="preloader">
-    <img src="assets/images/preloader.gif" alt="preloader">
+    <img src="<?php echo base_url('assets/images/preloader.gif');?>" alt="preloader">
   </div>
   <!-- preloader end -->
 
@@ -70,7 +70,7 @@
   <div class="navigation w-100">
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-dark p-0">
-        <a class="navbar-brand" href="<?php base_url();?>home"><img src="assets/images/logo.png" alt="logo" width="330" height="55"></a>
+        <a class="navbar-brand" href="<?php base_url();?>home"><img src="<?php echo base_url('assets/images/logo.png');?>" alt="logo" width="330" height="55"></a>
         <button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation"
           aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
