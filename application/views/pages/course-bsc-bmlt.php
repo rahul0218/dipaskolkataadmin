@@ -8,8 +8,8 @@
           <li class="list-inline-item"><a class="h2 text-primary font-secondary" href="courses.html">Our Courses</a></li>
           <li class="list-inline-item text-white h3 font-secondary nasted">B.Sc BMLT (Bachelor in Medical laboratory Technician)</li>
         </ul>
-        <p class="text-lighten">3 years vocational course. 6 days a week classes.
-Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
+        <p class="text-lighten">3 years vocational course. 6 days a week classes.</p>
+
       </div>
     </div>
   </div>
@@ -41,7 +41,7 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-alarm-clock text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -50,8 +50,8 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
                 
               </div>
             </div>
-          </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          </li> -->
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -59,7 +59,7 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
                 <p class="mb-0">From: ₹000</p>
               </div>
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
       <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
@@ -84,7 +84,7 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
           If you want something great to come, pick this option! Bachelor / Master degrees can also offer a good education and the desire to become a multi-skilled professional; 
           so choosing a BMLT program can certainly improve your chances of getting such a job.</p>
       </div>
-      <div class="col-12 mb-4">
+      <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">Syllabus</h3>
         <div class="col-12 px-0">
           <div class="row">
@@ -95,25 +95,25 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
                 Microscope, Vein Finder, Vacutainer, Phlebotomy, Colorimeter,
                 Semi- auto Analyzer, ELISA, Rotary Microtome, Channel set-up,
                 Safety & hygiene etc.</p>
-              <!-- <ul class="list-styled">
+               <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-              </ul> -->
+              </ul> 
             </div>
-            <!-- <div class="col-md-6">
+            <div class="col-md-6">
               <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
               </ul>
-            </div> -->
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-12 mb-4">
+      </div> -->
+      <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">How to Apply</h3>
         <ul class="list-styled">
           <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
@@ -127,8 +127,8 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
           <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
             dolor. Lorem, ipsum.</li>
         </ul>
-      </div>
-      <div class="col-12 mb-5">
+      </div> -->
+      <!-- <div class="col-12 mb-5">
         <h3>Fees and Funding</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
           dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -140,7 +140,7 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
           consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
           ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
           labore et dolore magnam aliquam quaerat voluptatem.</p>
-      </div>
+      </div> -->
       <!-- teacher -->
       <div class="col-12">
         <h5 class="mb-3">Teacher</h5>
@@ -211,7 +211,7 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
         </a>
         <p class="card-text mb-4"> The B.S Physician Assistant is a three-year non-compulsory health care training course. 
           There are many job opportunities for graduates in this subject.</p>
-        <a href="<?php base_url();?>course-single" class="btn btn-primary btn-sm">Apply now</a>
+        <a href="<?php base_url();?>course-bsc-pa" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
   </div>
@@ -229,9 +229,8 @@ Daily 4-6 hours (11 am-5 pm) (Timing are subject to re-scheduled).</p>
         <a href="<?php base_url();?>course-bpt">
           <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
         </a>
-        <p class="card-text mb-4"> A Bachelor in Medical Laboratory Technology or a BMLT course is one of the growing and advanced courses in the modern field of healthcare. 
-          BMLT study duration is 3 years divided equally into 6 semesters.</p>
-        <a href="<?php base_url();?>course-single" class="btn btn-primary btn-sm">Apply now</a>
+        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, physical movements and exercise to improve and cure injuries, deformities and diseases, disability.</p>
+        <a href="<?php base_url();?>course-bpt" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
   </div>

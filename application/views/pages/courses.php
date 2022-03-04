@@ -50,7 +50,10 @@
         <a href="<?php base_url();?>course-bsc-ott">
           <h4 class="card-title">B.Sc OTT ( B.Sc Operation Theatre Technology)</h4>
         </a>
-        <p class="card-text mb-4"> B.Sc Operation Theater Technology is a three-year degree graduate who specializes in providing care to doctors, surgeons, specialists, anesthesiologists, and nurses.</p>
+        <p class="card-text mb-4"> The course equips the professional to take complete care of the surgical procedures. 
+          From pre- and post-operation in the theatre and to assisting in giving the right dose of 
+          anaesthesia to the patients, the demand for trained and skilled OT professionals is growing 
+          day by day.</p>
         <a href="<?php base_url();?>course-bsc-ott" class="btn btn-primary btn-sm">Know more</a>
       </div>
     </div>
@@ -105,8 +108,11 @@
         <a href="<?php base_url();?>course-bpt">
           <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
         </a>
-        <p class="card-text mb-4"> A Bachelor in Medical Laboratory Technology or a BMLT course is one of the growing and advanced courses in the modern field of healthcare. 
-          BMLT study duration is 3 years divided equally into 6 semesters.</p>
+        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, 
+          physical movements and exercise to improve and cure injuries, deformities and diseases, disability. 
+          Along with rehabilitation, some other important sections of physiotherapy are- diagnosis, examination 
+          and assessment of the condition. The course also highlights the importance of six months of mandatory 
+          clinical internship.  Regular classroom sessions and clinical sessions constitute 4½ years of the academic program.</p>
         <a href="<?php base_url();?>course-bpt" class="btn btn-primary btn-sm">Know more</a>
       </div>
     </div>

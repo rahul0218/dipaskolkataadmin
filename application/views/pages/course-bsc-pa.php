@@ -9,8 +9,8 @@
           <li class="list-inline-item text-white h3 font-secondary nasted">B.Sc PA ( B.Sc Physician Assistantship)</li>
         </ul>
         <p class="text-lighten">4.5 years vocational Physiotherapy course
-for 10+2 pass candidates</p>
-<p class="text-lighten">6 days a week class. Daily 4-6 hours (11 am-5 pm)</p>
+          for 10+2 pass candidates</p>
+<p class="text-lighten">6 days a week class.</p>
       </div>
     </div>
   </div>
@@ -42,7 +42,7 @@ for 10+2 pass candidates</p>
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-alarm-clock text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -51,8 +51,8 @@ for 10+2 pass candidates</p>
                 
               </div>
             </div>
-          </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          </li> -->
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -60,7 +60,7 @@ for 10+2 pass candidates</p>
                 <p class="mb-0">From: ₹000</p>
               </div>
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
       <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
@@ -82,7 +82,7 @@ for 10+2 pass candidates</p>
           hospitals and clinics. Physician Assistant is academically qualified and trained in clinics 
           to provide health care services under a licensed physician.</p>
       </div>
-      <div class="col-12 mb-4">
+      <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">Syllabus</h3>
         <div class="col-12 px-0">
           <div class="row">
@@ -93,21 +93,21 @@ for 10+2 pass candidates</p>
               Myofascial Release, Kinesio Taping, Post-Operative Physio
               Management etc.
               </p>
-              <!-- <ul class="list-styled">
+               <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-              </ul> -->
+              </ul> 
             </div>
-            <!-- <div class="col-md-6">
+             <div class="col-md-6">
               <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
               </ul>
-            </div> -->
+            </div> 
           </div>
         </div>
       </div>
@@ -138,7 +138,7 @@ for 10+2 pass candidates</p>
           consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
           ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
           labore et dolore magnam aliquam quaerat voluptatem.</p>
-      </div>
+      </div> -->
       <!-- teacher -->
       <div class="col-12">
         <h5 class="mb-3">Teacher</h5>
@@ -146,7 +146,7 @@ for 10+2 pass candidates</p>
           <div class="media mb-2 mb-sm-0">
             <img class="mr-4 img-fluid" src="assets/images/teacher.jpg" alt="Teacher">
             <div class="media-body">
-              <h4 class="mt-0">Sam Somrat</h4>
+              <h4 class="mt-0">Teacher Name</h4>
               Doctor
             </div>
           </div>
@@ -227,8 +227,8 @@ for 10+2 pass candidates</p>
         <a href="<?php base_url();?>course-bpt">
           <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
         </a>
-        <p class="card-text mb-4"> A Bachelor in Medical Laboratory Technology or a BMLT course is one of the growing and advanced courses in the modern field of healthcare. 
-          BMLT study duration is 3 years divided equally into 6 semesters.</p>
+        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, 
+          physical movements and exercise to improve and cure injuries, deformities and diseases, disability.</p>
         <a href="<?php base_url();?>course-single" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>

@@ -26,7 +26,7 @@
             <div class="d-md-table-cell text-center p-4 bg-primary text-white mb-4 mb-md-0"><span class="h2 d-block">18</span> JAN,2022</div>
             <div class="d-md-table-cell px-4 vertical-align-middle mb-4 mb-md-0">
               <a href="assets/Paramedical_Brochure.pdf" target="_blank" class="h4 mb-3 d-block">Paramedical Brochure</a>
-              <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt perferendis saepe omnis officia! Doloribus quae maiores laboriosam praesentium enim fugiat ipsam laudantium assumenda!</p>
+              <p class="mb-0">Click on download button for brochure!</p>
             </div>
             <div class="d-md-table-cell text-right pr-0 pr-md-4"><a href="assets/Paramedical_Brochure.pdf" target="_blank" class="btn btn-primary">Download</a></div>
           </li>

@@ -16,28 +16,27 @@
       </div>
     </div>
   </div> -->
-  <!-- footer content -->
   <div class="footer bg-footer section border-bottom">
     <div class="container">
       <div class="row">
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
-          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="<?php echo base_url('assets/images/logo.png');?>" alt="logo"></a>
+          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="assets/images/logo.png" alt="logo"></a>
           <ul class="list-unstyled">
             <li class="mb-2">19, Mollargate Hospital Rd, Santoshpur Govt Colony, Rampur, Santoshpur, Kolkata, West Bengal 700142</li>
-            <li class="mb-2">+91 (2) 345 6789</li>
-            <li class="mb-2">+91 (2) 345 6789</li>
-            <li class="mb-2">contact@yourdomain.com</li>
+            <li class="mb-2">033 71200000</li>
+            <li class="mb-2">+91 825 068 5419</li>
+            <li class="mb-2">dishariparamedical.kolkata@gmail.com</li>
           </ul>
         </div>
         <!-- company -->
         <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5">COMPANY</h4>
+          <h4 class="text-white mb-5">LINKS</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="<?php base_url();?>about">About Us</a></li>
-            <li class="mb-3"><a class="text-color" href="<?php base_url();?>home">Our Teacher</a></li>
+            <!-- <li class="mb-3"><a class="text-color" href="<?php base_url();?>home">Our Teacher</a></li> -->
             <li class="mb-3"><a class="text-color" href="<?php base_url();?>contact">Contact</a></li>
-            <li class="mb-3"><a class="text-color" href="#">Link</a></li>
+            <!-- <li class="mb-3"><a class="text-color" href="#">Link</a></li> -->
           </ul>
         </div>
         <!-- links -->
@@ -45,13 +44,13 @@
           <h4 class="text-white mb-5">LINKS</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="<?php base_url();?>courses">Courses</a></li>
-            <li class="mb-3"><a class="text-color" href="#">Events</a></li>
+            <!-- <li class="mb-3"><a class="text-color" href="#">Events</a></li>
             <li class="mb-3"><a class="text-color" href="#">Gallary</a></li>
-            <li class="mb-3"><a class="text-color" href="#">FAQs</a></li>
+            <li class="mb-3"><a class="text-color" href="#">FAQs</a></li> -->
           </ul>
         </div>
         <!-- support -->
-        <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
+        <!-- <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5">SUPPORT</h4>
           <ul class="list-unstyled">
             <li class="mb-3"><a class="text-color" href="#">Forums</a></li>
@@ -59,7 +58,7 @@
             <li class="mb-3"><a class="text-color" href="#">Language</a></li>
             <li class="mb-3"><a class="text-color" href="#">Release Status</a></li>
           </ul>
-        </div>
+        </div> -->
         <!-- support -->
         <!-- <div class="col-lg-2 col-md-3 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5">RECOMMEND</h4>
@@ -82,8 +81,8 @@
             <script>
               var CurrentYear = new Date().getFullYear()
               document.write(CurrentYear)
-            </script> <a href="https://www.technophiletroop.com">
-            © Technophiletroop</a></p>
+            </script> <a href="http://technophiletroop.com/">
+            © Technophiletroops</a></p>
         </div>
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">

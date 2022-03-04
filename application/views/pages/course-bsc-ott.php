@@ -9,7 +9,7 @@
           <li class="list-inline-item text-white h3 font-secondary nasted">B.Sc OTT ( B.Sc Operation Theatre Technology)</li>
         </ul>
         <p class="text-lighten">3 year’s vocational technical course. 6 days a week class.
-        Daily 4-6 hours (11 am-5 pm)</p>
+        </p>
       </div>
     </div>
   </div>
@@ -41,7 +41,7 @@
               </div>
             </div>
           </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-alarm-clock text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -50,8 +50,8 @@
                 
               </div>
             </div>
-          </li>
-          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          </li> -->
+          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-wallet text-primary icon-md mr-2"></i>
               <div class="text-left">
@@ -59,7 +59,7 @@
                 <p class="mb-0">From: ₹000</p>
               </div>
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
       <div class="col-xl-3 text-sm-right text-left order-sm-2 order-3 order-xl-3 col-sm-6 mb-4 mb-xl-0">
@@ -74,13 +74,19 @@
     <div class="row">
       <div class="col-12 mb-4">
         <h3>About Course</h3>
-        <p>B.Sc Operation Theater Technology is a three-year degree graduate who specializes in providing care to doctors, surgeons, specialists, anesthesiologists and nurses. 
-          The Bachelor of Science in Operational Theater has many career opportunities for new graduates such as a Practical Technician, 
-          a Surgical Assistant and more. Some of their responsibilities include arranging preoperative surgical instruments, pre- and post-surgery cleaning tools, 
-          careful handling of all equipment, and following the direction of surgeons. This means caring for both patients during and after the anesthesia 
-          while performing procedures without errors or abnormalities.</p>
+        <p>The course equips the professional to take complete care of the surgical procedures. 
+          From pre- and post-operation in the theatre and to assisting in giving the right dose of 
+          anaesthesia to the patients, the demand for trained and skilled OT professionals is growing 
+          day by day. They are not just assistants to surgeons but they help in maintaining the proper 
+          decorum and code of conduct in OT, thereby following NABH protocols. Some of the professionals 
+          opt for further higher degrees for enhancing their educational qualification and job promotions. 
+          This course is a creative amalgamation of skilled labour with intuitive interpersonal skills in the 
+          healthcare sector.</p>
+          <p>A wider scope of Operation Theatre Technology is quite prominent in transplant teams, 
+            orthopaedic clinics, gynecology sections, cancer units, surgery, special care baby units. 
+            They are also hired for research, education and training.</p>
       </div>
-      <div class="col-12 mb-4">
+      <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">Syllabus</h3>
         <div class="col-12 px-0">
           <div class="row">
@@ -91,15 +97,15 @@
               instrumentation, Fumigation, 6 Para Monitoring, Laryngoscopic
               intubation, Central line set-up etc.
               </P>
-              <!-- <ul class="list-styled">
+               <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-              </ul> -->
+              </ul> 
             </div>
             
-            <!-- <div class="col-md-6">
+             <div class="col-md-6">
             
               <P>
               6 months compulsory rotatory internship in our tie-up Pvt. Hospitals/Nursing Home for observation,
@@ -112,26 +118,25 @@
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
               </ul>
-            </div> -->
+            </div> 
           </div>
         </div>
-      </div>
-      <div class="col-12 mb-4">
-        <h3 class="mb-3">How to Apply</h3>
+      </div> -->
+       <div class="col-12 mb-4">
+        <h3 class="mb-3">B.Sc OTT ( B.Sc Operation Theatre Technology)</h3>
         <ul class="list-styled">
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
-            dolor. Lorem, ipsum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
-            dolor. Lorem, ipsum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
-            dolor. Lorem, ipsum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
-            dolor. Lorem, ipsum.</li>
-          <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla? Lorem, ipsum
-            dolor. Lorem, ipsum.</li>
-        </ul>
+          
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technology</a> is the 3-year degree programme that is divided into 6-semesters</li>
+        <li>The main aim of the <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technology </a>programme is to make the students understand the concepts of operation theatre ethics, the layout of the operation theatre along with the knowledge of handling the surgical equipment.&nbsp;</li>
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technolog</a>y is the branch of allied health sciences where the students will be studying about the equipment and machines that are available in the operation theatres of the hospitals.&nbsp;</li>
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre technology</a> students are responsible to maintain and handle these costly machines during the surgeries.&nbsp;</li>
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technology</a> students are responsible for the proper maintenance of these machines as they are very expensive.</li>
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technology</a> students are responsible to set up these machines before the surgeries according to the requirements of the patients and under the direction of the certified surgeons performing the surgery.</li>
+        <li>The <a href="http://dipaskolkata.com/course-bsc-ott">B.Sc Operation Theatre Technology</a> programme is specifically designed to meet the demand of the growing needs of experts in the fields of operation theatre management, medical ethics, anaesthesia technology and postoperative care.</li>
+      </ul>
+        
       </div>
-      <div class="col-12 mb-5">
+     <!-- <div class="col-12 mb-5">
         <h3>Fees and Funding</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
           dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -143,7 +148,7 @@
           consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
           ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
           labore et dolore magnam aliquam quaerat voluptatem.</p>
-      </div>
+      </div> -->
       <!-- teacher -->
       <div class="col-12">
         <h5 class="mb-3">Teacher</h5>
@@ -190,7 +195,7 @@
           <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
           <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
         </ul>
-        <a href="<?php base_url();?>course-single">
+        <a href="<?php base_url();?>course-bsc-cct">
           <h4 class="card-title">B.Sc CCT ( B.Sc Critical Care Technology)</h4>
         </a>
         <p class="card-text mb-4"> B.Sc in Critical Care Technology is an undergraduate course in which students learn about the theoretical and 
@@ -232,8 +237,8 @@
         <a href="<?php base_url();?>course-bpt">
           <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
         </a>
-        <p class="card-text mb-4"> A Bachelor in Medical Laboratory Technology or a BMLT course is one of the growing and advanced courses in the modern field of healthcare. 
-          BMLT study duration is 3 years divided equally into 6 semesters.</p>
+        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, 
+          physical movements and exercise to improve and cure injuries, deformities and diseases, disability.</p>
         <a href="<?php base_url();?>course-single" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>

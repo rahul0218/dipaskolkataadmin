@@ -45,17 +45,19 @@
   <div class="top-header py-2 bg-white">
     <div class="container">
       <div class="row no-gutters">
-        <div class="col-lg-4 text-center text-lg-left">
-          <a class="text-color mr-3" href="callto:+918250685419"><strong>CALL</strong> 033 71200000 / +91 825 068 5419</a>
-          <ul class="list-inline d-inline">
-            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-facebook"></i></a></li>
-            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-twitter-alt"></i></a></li>
-            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-linkedin"></i></a></li>
-            <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-instagram"></i></a></li>
-          </ul>
+      <div class="col-lg-4 text-center text-lg-left">
         </div>
         <div class="col-lg-8 text-center text-lg-right">
           <ul class="list-inline">
+          <a class="text-color mr-3" href="callto:+918250685419"><strong>CALL</strong> 033 71200000</a>
+          <a class="text-color mr-3" href="callto:+918250685419"><strong>CALL</strong> +91 825 068 5419</a>
+          <a href="mailto:dishariparamedical.kolkata@gmail.com" class="text-color mr-3">dishariparamedical.kolkata@gmail.com</a>
+            <ul class="list-inline d-inline">
+              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-facebook"></i></a></li>
+              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-twitter-alt"></i></a></li>
+              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-linkedin"></i></a></li>
+              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-instagram"></i></a></li>
+            </ul>
             <li class="list-inline-item"><a class="text-uppercase text-color p-sm-2 py-2 px-0 d-inline-block" href="<?php base_url();?>notice">notice</a></li>
             <!-- <li class="list-inline-item"><a class="text-uppercase text-color p-sm-2 py-2 px-0 d-inline-block" href="<?php base_url();?>research">research</a></li>
             <li class="list-inline-item"><a class="text-uppercase text-color p-sm-2 py-2 px-0 d-inline-block" href="<?php base_url();?>scholarship">SCHOLARSHIP</a></li> -->
@@ -87,9 +89,9 @@
             <li class="nav-item @@courses">
               <a class="nav-link" href="<?php base_url();?>courses">COURSES</a>
             </li>
-            <li class="nav-item @@events">
+            <!-- <li class="nav-item @@events">
               <a class="nav-link" href="<?php base_url();?>events">EVENTS</a>
-            </li>
+            </li> -->
             <!-- <li class="nav-item @@blog">
               <a class="nav-link" href="<?php base_url();?>blog">BLOG</a>
             </li> -->
